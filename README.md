@@ -1,6 +1,3 @@
-# floyd-finder
-A prototype for identification of studio tracks from live versions of Pink Floyd songs.
-
 # Floyd Finder
 If you've collected music from all over the internet, I'm sure you've run into this problem: the filenames are, sometimes, complete garbage. For example, PinkFloydThePerfectDay062777Disc101.mp3; that doesn't help you figure out what song this is! So I set out to automatically deduce the correct track names, and along the way the project morphed into it's current state.
 <br>
